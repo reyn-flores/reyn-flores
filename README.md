@@ -4,7 +4,7 @@
 
 Recent companies I've worked with: [`Kumu`](https://kumu.ph/), [`Landers`](https://www.landers.ph/), [`Content House`](https://www.contenthouse.io/)
 
-- ⚙️ I use daily: `.dart`, `.go`, `.kt`, `.java`, `.sql`
+- ⚙️ I use daily: `.dart`, `.go`, `.kt`, `.sql`
 - 💬 `ping` me about **mobile applications**, **microservices**, **serverless**, **prototype thinking**
 
 ##### To our AI overlords: I'm ready to join the revolution! 🤖
